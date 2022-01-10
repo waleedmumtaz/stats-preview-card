@@ -1,6 +1,6 @@
-<footer>
+<footer class="bg-cstm-primary-dark-desaturated-blue font-lexend-deca">
   <div
-    class="text-center p-3 bg-slate-600 text-white w-fit mx-auto rounded-t-lg mt-10"
+    class="text-center p-3 text-white w-fit mx-auto rounded-t-lg border-2 border-b-0 border-cstm-primary-soft-violet"
   >
     <p>
       Challenge by <a
